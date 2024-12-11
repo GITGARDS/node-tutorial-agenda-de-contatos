@@ -6,7 +6,7 @@ npm init -y
 
 yarn add typescript tsx prisma -D
 
-npm tsc --init
+npx tsc --init
 
 npm prisma init --datasource-provicer sqlite
 
